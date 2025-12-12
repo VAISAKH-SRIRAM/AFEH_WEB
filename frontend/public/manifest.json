@@ -1,0 +1,30 @@
+{
+  "name": "AFEH-PWA",
+  "short_name": "AFEH-PWA",
+  "description": "Complete offline-first PWA for eye hospital appointment booking and patient management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://customer-assets.emergentagent.com/job_7b5beda7-2c8f-4bc5-ad96-7a281f7f183a/artifacts/fshz7h5o_Untitled.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://customer-assets.emergentagent.com/job_7b5beda7-2c8f-4bc5-ad96-7a281f7f183a/artifacts/fshz7h5o_Untitled.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "health",
+    "medical"
+  ],
+  "scope": "/",
+  "prefer_related_applications": false
+}
